@@ -1,5 +1,5 @@
-.blend
-.tex
-.log
-.aux
-.gz
+*.blend
+*.tex
+*.log
+*.aux
+*.gz
