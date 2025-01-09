@@ -1,5 +1,5 @@
 # Cycloid pendulum
-1. [theory](https://github.com/Matvey787/cycloidPendulum/blob/main/main.pdf) \\
+1. [theory](https://github.com/Matvey787/cycloidPendulum/blob/main/main.pdf) 
 2. 3d model 
     - [right side](https://github.com/Matvey787/cycloidPendulum/blob/main/Right_Side.stl)
     - [left side](https://github.com/Matvey787/cycloidPendulum/blob/main/Left_Side.stl) 
